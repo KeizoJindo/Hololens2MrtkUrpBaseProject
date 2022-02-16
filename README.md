@@ -5,6 +5,7 @@ Mixed Reality Toolkit(MRTK)の初期設定済みのURP Unityプロジェクト�
 |  機能  |  バージョン  |
 | ---- | ---- |
 |  Unity  |  2020.3.26f1  |
+|  Universal RP  |  10.8.1  |
 |  Mixed Reality Toolkit Foundation  |  2.7.3  |
 |  Mixed Reality Toolkit Standard Assets  |  2.7.3  |
 |  Mixed Reality Toolkit Tools  |  2.7.3  |
